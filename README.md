@@ -21,6 +21,6 @@ Cara Menjalankan Program :
           
           e. Liat Hasil: Hasilnya akan di output kan / muncul pada kotak "Hasil" di paling bawah.
           
-Menggunakan Vigenere Cipher yaitu,
+    3. Menggunakan Vigenere Cipher yaitu,
 
-Memiilih "Vigenere Cipher" atau bisa dengan yang lain, inputkan pesan dan juga kunci rasahia yang ingin di enkripsi atau dekripsi, Lalu klik "Enkripsi" atau "Dekirpsi". Pesan hanya memproses huruf dari A-Z. Pesan selain huruf itu akan dilewati prosesnya.
+            Memiilih "Vigenere Cipher" atau bisa dengan yang lain, inputkan pesan dan juga kunci rasahia yang ingin di enkripsi atau dekripsi, Lalu klik "Enkripsi" atau "Dekirpsi". Pesan hanya memproses huruf dari A-Z. Pesan selain huruf itu akan dilewati prosesnya.
